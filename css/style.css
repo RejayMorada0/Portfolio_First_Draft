@@ -120,6 +120,11 @@ main {}
     padding: 0px 0 38px 0;
 }
 
+.bttn {
+    display: flex;
+    padding: 20px 27px 20px 27px;
+}
+
 .contactbttn {
     padding: 20px 27px 20px 27px;
     border: solid 1px #47B1F0;
@@ -233,5 +238,8 @@ embed {
     .aboutlabel {
         width: 100%;
         padding: 50px 50px 50px 50px;
+    }
+    .bttn {
+        display: grid;
     }
 }
