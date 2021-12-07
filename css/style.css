@@ -242,4 +242,11 @@ embed {
     .bttn {
         display: grid;
     }
+    .portfoliobttn,
+    .contactbttn {
+        text-align: center;
+    }
+    .portfoliobttn {
+        margin-top: 2%;
+    }
 }
