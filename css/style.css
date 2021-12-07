@@ -175,11 +175,12 @@ main {}
 .aboutlabel h1 {
     font-size: 45px;
     font-weight: bold;
+    padding: 25px 0 25px 0;
 }
 
 .aboutlabel p {
-    width: 100%;
     font-size: 15px;
+    padding: 0px 0 38px 0;
 }
 
 .aboutcv {
@@ -231,5 +232,6 @@ embed {
     }
     .aboutlabel {
         width: 100%;
+        padding: 50px 50px 50px 50px;
     }
 }
